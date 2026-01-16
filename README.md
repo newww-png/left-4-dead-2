@@ -1,5 +1,5 @@
 # left-4-dead-2
-Place the .smx file into the addons\sourcemod\plugins directory. This plugin allows you to directly execute, in the console, the commands that have the "launcher" (including duplicate "launcher" tags) and "cmd" flags from the list at https://developer.valvesoftware.com/wiki/List_of_Left_4_Dead_2_console_commands_and_variables. These commands will also appear in the command drop-down text. For example, take the "developer" command—it has the flags "launcher" (note: corrected from the original "luancher", "cl", and "cmd"）.
+Place the .smx file into the addons\sourcemod\plugins directory. This plugin allows you to directly execute, in the console, the commands that have the "launcher" (including duplicate "launcher" tags) and "cmd" flags from the list at https://developer.valvesoftware.com/wiki/List_of_Left_4_Dead_2_console_commands_and_variables. These commands will also appear in the command drop-down text. For example, take the "developer" command—it has the flags "launcher" (note: corrected from the original "luancher", "cl"）.
 
 <img width="106" height="57" alt="image" src="https://github.com/user-attachments/assets/a9f9394b-d95b-43fe-8d3b-bcf8834b109b" />
 
